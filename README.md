@@ -1,7 +1,7 @@
 # Predictive Analytics and Machine Learning Foundations: A Coursework Compilation
 
 ## Overview
-This project is a comprehensive compilation of coursework focusing on predictive analytics and foundational machine learning techniques. Developed by students of Goldsmiths University of London, it encompasses a series of Jupyter notebooks that detail the exploration and application of various regression analyses, neural networks, and data preprocessing techniques.
+This project is a comprehensive compilation of coursework focusing on predictive analytics and foundational machine learning techniques. Developed by Goldsmiths University of London students, it encompasses a series of Jupyter notebooks that detail the exploration and application of various regression analyses, neural networks, and data preprocessing techniques.
 
 ## Objectives
 - To understand and apply various predictive modeling techniques such as Linear Regression, Ridge Regression, Lasso Regression, Elastic Net Regression, Polynomial Regression with regularization, and Neural Networks.
@@ -32,10 +32,6 @@ jupyter notebook
 
 ## Contribution
 This project is part of an academic coursework. Contributions, suggestions, and feedback are welcome. Please open an issue or pull request on the GitHub repository.
-
-## Authors
-- Sandor Kanda (skand001@gold.ac.uk)
-- Carlos Alves (cdeol003@gold.ac.uk)
 
 ## Acknowledgments
 We would like to thank the faculty and peers at Goldsmiths University of London for their support and guidance throughout this project.
